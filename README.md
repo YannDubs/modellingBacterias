@@ -17,4 +17,4 @@ Use the following commands to place bacterias where the cursor is :
 for more information see *README.pdf* (in french)
 
 ## Example
-[I'm an inline-style link](https://www.youtube.com/watch?v=PYD_2GLrzy0&spfreload=10)
+[Youtube video](https://www.youtube.com/watch?v=PYD_2GLrzy0&spfreload=10)
